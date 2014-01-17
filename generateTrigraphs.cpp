@@ -43,7 +43,7 @@ bool fileExists(char *file) {
 }
 
 void parse(char *file) {
-	if ( fileExists(file) ) {
+	if ( !fileExists(file) ) {
 		cerr << "Error opening " << file << ".\n";
 		return;
 	}
