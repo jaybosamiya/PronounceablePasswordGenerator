@@ -19,3 +19,9 @@ Further possibilities for improvement
 + Keep a feedback mechanism to weed out the unpronouncable words it produces every now and then.
 + Keep a larger database of frequencies to dip into to increase the pronouncability even more.
 + Keep track of frequency evolution with start and end of words. For example, some letters are more common at the start of a word than at its end.
+
+
+License
+-------
+
+[MIT License](http://jay.mit-license.org/2014)
